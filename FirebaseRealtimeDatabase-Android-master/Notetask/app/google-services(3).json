@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "358298649660",
+    "firebase_url": "https://notetask-9bb88.firebaseio.com",
+    "project_id": "notetask-9bb88",
+    "storage_bucket": "notetask-9bb88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358298649660:android:d20cf242f1c06ad1956f39",
+        "android_client_info": {
+          "package_name": "com.example.notetask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358298649660-knhvsrek8gg4uc0kgvqhqfcsj6fv321d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNa4bUq3QGykUt89OY4AMIK1gi8uphRWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358298649660-knhvsrek8gg4uc0kgvqhqfcsj6fv321d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
